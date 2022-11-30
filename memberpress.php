@@ -1,8 +1,8 @@
 <?php
 /*
 Plugin Name: MemberPress Pro 30 (Legacy)
-Plugin URI: http://www.memberpress.com/
-Description: The membership plugin that makes it easy to accept payments for access to your content and digital products.
+Plugin URI: https://github.com/zed0x5f/memberpress
+Description: The membership plugin that makes it easy to accept payments for access to your content and digital products. This is a slightly modified version 
 Version: 1.9.50
 Author: Caseproof, LLC
 Author URI: http://caseproof.com/
